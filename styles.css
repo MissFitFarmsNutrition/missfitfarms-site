@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Miss Fit Farms Nutrition | Fueled by Wellness, Powered by Purpose</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1>Miss Fit Farms Nutrition</h1>
+      <p class="slogan">Fueled by Wellness, Powered by Purpose.</p>
+      <nav class="site-nav">
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="shop.html">Shop</a></li>
+          <li><a href="blog.html">Blog</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <img src="img/hero‑barn.jpg" alt="Barn image for Miss Fit Farms" class="hero-img">
+    <div class="hero-content">
+      <h2>Start your journey today</h2>
+      <p>Join the Miss Fit Farms community and take the first step toward living <strong>Fueled by Wellness, Powered by Purpose.</strong></p>
+      <a href="contact.html" class="btn btn-primary">Join Now</a>
+    </div>
+  </section>
+
+  <section class="featured-smoothie">
+    <div class="container">
+      <h2>Featured Smoothie Shop</h2>
+      <p>Bright, colorful, fruit‑inspired blends to fuel your day.</p>
+      <div class="smoothie-images">
+        <img src="img/smoothie1.jpg" alt="Fruit smoothie">
+        <img src="img/smoothie2.jpg" alt="Healthy smoothie">
+        <img src="img/smoothie3.jpg" alt="Colorful smoothie">
+      </div>
+    </div>
+  </section>
+
+  <section class="about">
+    <div class="container">
+      <h2>About Us</h2>
+      <p>Based in Plainfield, Illinois, Miss Fit Farms Nutrition serves busy moms, professionals, and wellness enthusiasts nationwide.</p>
+      <a href="about.html" class="btn btn-secondary">Learn More</a>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© 2025 Miss Fit Farms Nutrition. Fueled by Wellness, Powered by Purpose.</p>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
